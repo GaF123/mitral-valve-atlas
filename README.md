@@ -1,4 +1,4 @@
-Scripts used to generate the data/figures contained in "A single-cell and spatial atlas of human and murine mitral valve and valvular diseases"
+Scripts used to generate the data/figures 
 
 Additional scripts will continue to be uploaded/updated.
 
